@@ -83,10 +83,7 @@ th{
   padding:10px;
   border-top: 2px solid #000;
 }
-tr{
-  transition-duration: 1s;
-  transition-timing-function: linear;
-}
+
 tr:nth-child(even){
   background-color:#D1D1D1 ;
 }
